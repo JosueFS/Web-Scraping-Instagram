@@ -1,4 +1,4 @@
-# Webscrapping do instagram
+# Webscrapping no instagram
 
 ## :mortar_board: O que foi aprendido?
 
@@ -36,9 +36,9 @@ $ node index.js
 
 ## :construction: Próximas features
 
-- [] Construir uma aplicação visual que consuma esses dados
+- [ ] Construir uma aplicação visual que consuma esses dados
 
-- [] Criação de rotas para tornar o usuário dinâmico
+- [ ] Criação de rotas para tornar o usuário dinâmico
 
 ## :link: Referências
 
